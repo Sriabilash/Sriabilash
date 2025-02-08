@@ -16,10 +16,11 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 
 ---  
 ## 🔥 My Stats  
+ 
+## 📊 GitHub Stats
 
-### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriabilash&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriabilash&layout=compact&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriabilash&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriabilash&layout=compact&theme=radical)
 
 ### LeetCode Stats  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/sriabilash/)  
